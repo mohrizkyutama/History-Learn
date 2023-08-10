@@ -12,5 +12,3 @@ Repository ini tentang pengalaman belajarku di bidang teknologi
       -  Memodifikasi aplikasi pernagkat lunak menggunakan HTML,CSS dan Javascript.
       -  Pemahaman teori sintaksis bahasa pemrograman, variabel, tipe data, logika komputer, dan bahasa pemrograman JavaScript versi ES6
       -  Pengarsipan perangkat lunak, pembuatan gaya penulisan kode, penulisan komentar pada kode, dan pembuatan dokumentasi teknis aplikasi
-  3. 
--- Bulan Agustus 2023
