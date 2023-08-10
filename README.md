@@ -19,6 +19,7 @@ Repository ini tentang pengalaman belajarku di bidang teknologi
       - Membuat perencanaan modifikasi aplikasi perangkat lunak dengan pembuatan requirement aplikasi dan diagram alur
       - Memodifikasi aplikasi perangkat lunak menggunakan pemrograman HTML, CSS, dan JavaScript tingkat dasar
       - Mengarahkan dokumentasi pemrograman dan pengembangan perangkat lunak menggunakan metode pengarsipan
+        
   -- Bulan Agustus
    1. Belajar Dasar Visualisasi Data
       -  Mengidentifikasi macam-macam media untuk visualisasi data
