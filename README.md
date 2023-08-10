@@ -1,7 +1,7 @@
 # HistoryLearn
 Repository ini tentang pengalaman belajarku di bidang teknologi
 
--- Bulan Juli 2023
+### Bulan Juli 2023
   1.  Pengenalan ke Logika Pemrograman :
       -  Belajar tentang logika pemorgraman dan jenis gerbang logika yang dapat digunakan dalam bidang pemrograman
       -  Cara penggunaan teknik  *computional thinking* untuk memcahkan suatu masalah pemrograman
@@ -20,7 +20,7 @@ Repository ini tentang pengalaman belajarku di bidang teknologi
       - Memodifikasi aplikasi perangkat lunak menggunakan pemrograman HTML, CSS, dan JavaScript tingkat dasar
       - Mengarahkan dokumentasi pemrograman dan pengembangan perangkat lunak menggunakan metode pengarsipan
         
-  -- Bulan Agustus
+### Bulan Agustus
    1. Belajar Dasar Visualisasi Data
       -  Mengidentifikasi macam-macam media untuk visualisasi data
       -  Menyimpulkan jenis visualisasi data yang terbaik berdasarkan situasi dan kebutuhannya
