@@ -26,7 +26,11 @@ Repository ini tentang pengalaman belajarku di bidang teknologi
       *  Menyimpulkan jenis visualisasi data yang terbaik berdasarkan situasi dan kebutuhannya
       *  Membangun visualisasi data menggunakan aplikasi spreadsheet Google Sheets.
       *  Menerapkan praktek terbaik seperti prinsip Gestalt, konsep Preattentive Attributes, dan konsep teori desain, dalam membangun visualisasi data
-
+   2. Belajar Dasar Git dengan GitHub
+      * Mempelajari pengelolaan kode atau data menggunakan Git dengan GitHub agar bisa berkolaborasi dengan developer lain
+      * Mengelola kumpulan data atau kode mereka sendiri dalam repository GitHub, serta dapat berkolaborasi dengan developer lain pada repository yang sama
+   3. Belajar Dasar Google Cloud 
+      * Mengetahui kelebihan dari penggunaan teknologi cloud dan mampu memilih layanan-layanan yang tersedia di Google Cloud sehingga manfaatnya dalam meningkatkan nilai            bisnis dapat tercapai secara cepat dan praktis.
 ### Challenge Dicododing
 **20 Juni 2021**  
 
